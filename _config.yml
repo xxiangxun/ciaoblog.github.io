@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://xnzaa.github.io
+url: http://www.ciao.ink
 date_format: "ordinal"
-title: 小鸟在嗷嗷
-subtitle: "努力寻找我的奶酪~"
+title: 所以ciao
+subtitle: "生活是苦难的，我又划着我的断桨出发了。"
 description: "个人博客"
-keywords: 小鸟在嗷嗷,blog
+keywords: 所以ciao,blog
 favicon: /assets/images/favicon.ico
 timezone: Beijing
 encoding: "UTF-8"
-source_code: https://github.com/xnzaa/xnzaa.github.io
+source_code: https://www.ciao.ink
 
 # ---------------- #
 #      Author      #
@@ -86,10 +86,10 @@ Email: 649981201@qq.com
 
 # !!!Important!!! Please modify usernames below to yours
 #多说评论服务供应商
-comments_provider: duoshuo
-duoshuo_username: xubing
+comments_provider: 
+duoshuo_username: 
 #百度统计
-baidu_statistics: d0bee4b588a6732505f743a27e4cb5e3
+baidu_statistics: 
 # ---------------- #
 #      Datas       #
 # ---------------- #
