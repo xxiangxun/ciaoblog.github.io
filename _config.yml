@@ -31,12 +31,8 @@ navs:
     label: 博客主页
 
   -
-    href: /categories/
-    label: 文章分类
-
-  -
     href: /expend/
-    label: 扩充页面
+    label: 介绍
 
   -
     href: /about/
