@@ -16,11 +16,11 @@ source_code: https://www.ciao.ink
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Bing xu
-organization: Hust
-#organization_url: https://www.hust.edu.cn
+author: xxiang
+organization: xxiang
+#organization_url: https://www.ciao.ink
 location: Wuhan, China
-email: imxubing@163.com
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -75,9 +75,9 @@ collections:
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: xnzaa
-QQ: 649981201
-Email: 649981201@qq.com
+github_username: ciao
+QQ: 
+Email: 
 
 # ---------------- #
 #      Comments    #
@@ -96,5 +96,5 @@ baidu_statistics:
 skill_software_keywords: [C++, Java]
 skill_mobile_app_keywords: ["NULL"]
 skill_windows_keywords: ["NULL"]
-#popular_repos: ['chinese-copywriting-guidelines','android-reverse-engineering', 'csdncommenter', 'mzlogin.github.io', 'vim-markdown-toc']
+#popular_repos: ['chinese-copywriting-guidelines','android-reverse-engineering', 'csdncommenter', 'www.ciao.ink', 'vim-markdown-toc']
 #contribute_repos: ['sparanoid/chinese-copywriting-guidelines', 'waylife/RentCrawer']
