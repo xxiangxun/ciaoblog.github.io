@@ -31,11 +31,11 @@ navs:
     label: 主页
 
   -
-    href: /expend/
+    href: //
     label: 介绍
 
   -
-    href: /about/
+    href: //
     label: 关于我
 
 # ---------------- #
